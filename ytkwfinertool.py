@@ -16,13 +16,34 @@ days = st.number_input("Enter Days to Search (1-30):", min_value=1, max_value=30
 
 # List of broader keywords
 keywords = [
- "Affair Relationship Stories", "Reddit Update", "Reddit Relationship Advice", "Reddit Relationship", 
-"Reddit Cheating", "AITA Update", "Open Marriage", "Open Relationship", "X BF Caught", 
-"Stories Cheat", "X GF Reddit", "AskReddit Surviving Infidelity", "GurlCan Reddit", 
-"Cheating Story Actually Happened", "Cheating Story Real", "True Cheating Story", 
-"Reddit Cheating Story", "R/Surviving Infidelity", "Surviving Infidelity", 
-"Reddit Marriage", "Wife Cheated I Can't Forgive", "Reddit AP", "Exposed Wife", 
-"Cheat Exposed"
+    "Healthy Aging",
+    "Longevity Tips",
+    "Wellness Over 40",
+    "Biohacking",
+    "Healthy Lifestyle",
+    "Natural Health",
+    "Age Gracefully",
+    "Over 50 Health",
+    "Mind Body Health",
+    "Energy After 40",
+    "Brain Health",
+    "Memory Boost",
+    "Sleep Hacks",
+    "Better Sleep After 40",
+    "Stress Relief Tips",
+    "Joint Health",
+    "Fit Over 50",
+    "Weight Loss Over 40",
+    "Anti Inflammatory Diet",
+    "Intermittent Fasting Over 40",
+    "Hormone Balance After 40",
+    "Menopause Health Tips",
+    "Walking Benefits After 50",
+    "Supplements for Seniors",
+    "Anti-Aging Nutrition",
+    "Heart Health Over 40",
+    "Bone Strength After 50",
+    "Mobility Exercises for Seniors"
 ]
 
 # Fetch Data Button
